@@ -19,6 +19,7 @@ function getNumberOrString(value) {
 }
 
 
+
 sheep_count = 0;
 other_count = 0;
 
